@@ -5,7 +5,7 @@ project:
 book:
   title: "高校物理：原理から学ぶ"
   subtitle: "ベクトルと微積分で現象を読む"
-  author: "TorakoyaDev"
+  author: "kumulab"
   date: last-modified
   language: ja
   chapters:
