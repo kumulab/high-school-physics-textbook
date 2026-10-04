@@ -4,6 +4,8 @@
 
 原稿は [Quarto](https://quarto.org/) で管理します。全体の方針、章設計、文章原則、フィードバックから得た学びは [制作ドキュメント](docs/README.md) から参照できます。
 
+Web版: https://kumulab.github.io/high-school-physics-textbook/
+
 ## 方針
 
 - 初学者が式の意味を図・具体例・短い問題で確かめながら進める。
